@@ -56,9 +56,9 @@ Les tests se lancent aussi automatiquement sur GitHub à chaque push et à chaqu
 Lis [CONTRIBUTING.md](CONTRIBUTING.md) : une issue, une branche, une Pull Request relue.
 
 ## Équipe
-
 | Rôle | Nom | GitHub |
 | --- | --- | --- |
+| Développeur | Lorenzo Billaud-Rolland | @lorenzo755 |
 
 ## Licence
 
